@@ -20,3 +20,11 @@ body {
     height: 200px;
 }
 
+ .con {    max-width: 88px;
+    margin: 0 auto;
+    color: #3ea43e;
+    padding-top: 60px;
+    padding-left: 20px;
+    padding right: 20px;
+     
+ }
