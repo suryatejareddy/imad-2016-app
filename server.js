@@ -45,7 +45,7 @@ var htmlTemplate=`
 <html>
 <head>
     <title>
-       s(title)
+       ${title}
     </title>
    <link href="/ui/style.css" rel="stylesheet" />
 </head>
@@ -59,14 +59,14 @@ var htmlTemplate=`
     </div>
     <hr/>
     <h3>
-       s(heading)
+       ${heading}
     </h3>
     <div>
-       s(date)
+       ${date}
     
     </div>
     <div>
-    s(content)
+    ${content}
        
         
     </div>
