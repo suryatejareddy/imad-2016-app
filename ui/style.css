@@ -20,11 +20,11 @@ body {
     height: 20px;
 }
 
- .con {    max-width: 8px;
+.con {
+    max-width: 800px;
     margin: 0 auto;
     color: blue;
-    background:black;
+    background: chocolate;
     padding-left: 20px;
     padding-right: 20px;
-     
- }
+}
