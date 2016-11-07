@@ -18,7 +18,7 @@ var articles={
             
         </p>
           <div>
-           <a href="https://thumbs.dreamstime.com/z/green-checker-red-question-marks-solution-35902712.jpg"></a>
+           <a href="Screenshot (17).png"></a>
        </div> `
 },
  articleTwo: { title:'article two surya',
