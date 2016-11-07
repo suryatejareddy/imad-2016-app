@@ -14,7 +14,7 @@ var articles={
          date:'sep16,2016',
     content:`
     <p>
-            this is my first web app and i am very happy to share this.
+            this is my first web app and i am very happy to share.
             
         </p>
           <div>
