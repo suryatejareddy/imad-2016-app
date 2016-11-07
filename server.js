@@ -16,7 +16,10 @@ var articles={
     <p>
             this is my first web app and i am very happy to share this.
             
-        </p>`
+        </p>
+          <div>
+           <a href="https://thumbs.dreamstime.com/z/green-checker-red-question-marks-solution-35902712.jpg"></a>
+       </div> `
 },
  articleTwo: { title:'article two surya',
          heading:'article two',
@@ -26,9 +29,8 @@ var articles={
             this is my first web app and i am very happy to share this.
             
         </p>
-       <div>
-           <a href="https://thumbs.dreamstime.com/z/green-checker-red-question-marks-solution-35902712.jpg">
-           </a>
+      
+    
        </div> 
  },
         
@@ -36,10 +38,7 @@ var articles={
          heading:'article three',
          date:'sep19,2016',
     content:`
-    <p>
-            this is my first web app and i am very happy to share this.
-            
-        </p>`}
+   }
 };
 function createTemplate(data){
 var title=data.title;
