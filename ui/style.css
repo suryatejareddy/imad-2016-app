@@ -22,7 +22,8 @@ body {
 
  .con {    max-width: 8px;
     margin: 0 auto;
-    color: #3ea43e;
+    color: blue;
+    background:black;
     padding-left: 20px;
     padding-right: 20px;
      
