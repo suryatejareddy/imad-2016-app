@@ -17,6 +17,9 @@ var articles={
             this is my first web app and i am very happy to share.
             
         </p>
+         <div class="footer">
+this button <button id="counter">click me!</button> has been clicked <span id="count">0</span> times.
+</div>
           <div>
            <a href="Screenshot (17).png"></a>
        </div> `
@@ -70,9 +73,7 @@ var htmlTemplate=`
        ${date}
     
     </div>
-    <div class="footer">
-this button <button id="counter">click me!</button> has been clicked <span id="count">0</span> times.
-</div>
+   
     <div>
     ${content}
        
