@@ -70,6 +70,9 @@ var htmlTemplate=`
        ${date}
     
     </div>
+    <div class="footer">
+this button <button id="counter">click me!</button> has been clicked <span id="count">0</span> times.
+</div>
     <div>
     ${content}
        
@@ -90,6 +93,7 @@ app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'index.html'));
     
 });
+
 
 
 app.get('/:articleName',function(req,res){
