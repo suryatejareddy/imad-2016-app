@@ -17,7 +17,6 @@ var articles={
             this is my first web app and i am very happy to share.
             
         </p>
-        
           <div>
            <a href="Screenshot (17).png"></a>
        </div> `
@@ -55,7 +54,6 @@ var htmlTemplate=`
     </title>
    <link href="/ui/style.css" rel="stylesheet" />
 </head>
-
 <body>
     <div class="con">
         
@@ -71,7 +69,6 @@ var htmlTemplate=`
        ${date}
     
     </div>
-   
     <div>
     ${content}
        
@@ -92,7 +89,6 @@ app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'index.html'));
     
 });
-
 
 
 app.get('/:articleName',function(req,res){
