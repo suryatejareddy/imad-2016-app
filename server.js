@@ -21,23 +21,19 @@ var articles={
             <a href="Screenshot (17).png"></a>
         </div> `
  },
-  articleTwo: { title:'article two surya',
+  articleTwo: {
+      title:'article two surya',
           heading:'article two',
           date:'sep18,2016',
-     content:`
-     <p>
-             this is my first web app and i am very happy to share this.
-             
-         </p>
-       
+     content:`<p> this is my first web app and i am very happy to share this.This is my second article.</p>`
      
-        </div> 
   },
          
   articleThree: { title:'article three surya',
           heading:'article three',
           date:'sep19,2016',
-     content:`
+     content:`<p>
+     this is my third article.</p>`
     }
  };
  function createTemplate(data){
