@@ -1,7 +1,7 @@
 body {
     font-family: sans-serif;
-   
- margin-top: 60px;
+    background-color: lightgrey;
+    margin-top: 75px;
 }
 
 .center {
@@ -17,14 +17,6 @@ body {
 }
 
 .img-medium {
-    height: 20px;
+    height: 200px;
 }
 
-.con {
-    max-width: 800px;
-    margin: 0 auto;
-    color: blue;
-    background: chocolate;
-    padding-left: 20px;
-    padding-right: 20px;
-}
