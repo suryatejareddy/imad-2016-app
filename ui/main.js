@@ -13,7 +13,7 @@
       }
      }
      };
-     request.open('GET','http://suryatejareddy.imad.hasura-app.io/counter',true);
+     request.open('GET','suryatejareddy.imad.hasura-app.io/counter',true);
      request.send(null);
  };
  
