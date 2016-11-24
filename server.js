@@ -87,8 +87,7 @@ var articles={
       res.send(counter.toString());
       
   });
-  var names = [];
-
+var names = [];
 app.get('/submit-name',function(req,res){
     
     var name = req.query.name;
