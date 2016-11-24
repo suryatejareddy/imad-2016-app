@@ -11,9 +11,7 @@ button.onclick = function () {
     regquest.onreadystatechange = function (){
         if (request.readyState === XMLHttpRequest.DONE){
             if (request.status=== 200){
-                var counter = requesst.responseText;
-                 var span = document.getElementById('count');
-                 span.innerHTML = counter.toString();
+                
             }
         }
     };
@@ -35,9 +33,9 @@ submit.onclick = function () {
     }
     var ul = document.getElementById('namelist');
     ul.innerHTML = list;  
-    
 };
- 
+
+    
 
 
 
