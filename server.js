@@ -21,6 +21,8 @@ var articles={
              this is my first web app and i am very happy to share.
              
          </p>
+         <h2>movies</h2>
+<img src="2wCEAAkGBxMTEhUTExMVFhUXGRgYGBgXGBoYGxgYGxgdGhgXHhgaHSggGh0lHRkYITEiJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGxAQGy0lICYvLS8tLS0tLS0tLS8tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf"  style="width:304px;height:228px;">
           `
  },
   articleTwo: {
