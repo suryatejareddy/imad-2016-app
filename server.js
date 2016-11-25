@@ -20,9 +20,7 @@ var articles={
              this is my first web app and i am very happy to share.
              
          </p>
-           <div>
-            <a href="Screenshot (17).png"></a>
-        </div> `
+          `
  },
   articleTwo: {
       title:'article two surya',
@@ -54,14 +52,7 @@ var articles={
    <link href="/ui/style.css" rel="stylesheet" />
  </head>
  <body>
-  <div>
-            <a href="http://suryatejareddy.imad.hasura-app.io/articleOne"></a>
-        </div> 
-    
-     <div>
-        <a href="/">articleOne</a>
-     </div>
-     <hr/>
+ 
      <div class="con">
          
     
