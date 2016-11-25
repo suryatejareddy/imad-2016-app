@@ -23,7 +23,7 @@ body {
 }
 
 .con {
-    max-width: 8000px;
+    max-width: 0;
     margin: 0 auto;
     color: blue;
     background:  url(http://cdn.appstorm.net/web.appstorm.net/files/2011/05/Hallway-To-Internet-1-C1R2YDJPE2-1024x768-620x465.jpg) repeat-x;
