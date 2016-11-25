@@ -52,6 +52,15 @@ var articles={
    <link href="/ui/style.css" rel="stylesheet" />
  </head>
  <body>
+  <div class="co">
+        <div>
+            <a href="http://cdn.appstorm.net/web.appstorm.net/files/2011/05/Hallway-To-Internet-1-C1R2YDJPE2-1024x768-620x465.jpg"></a>
+        </div> 
+    
+     <div>
+        <a href="/">articleOne</a>
+     </div>
+     <hr/>
  
      <div class="con">
          
