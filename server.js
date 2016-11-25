@@ -56,10 +56,7 @@ var articles={
  
  
      <div class="con">
-     <a href="http://suryatejareddy.imad.hasura-app.io/articleOne</a>
-         
-    
-     <div>
+    <div>
         <a href="/">home</a>
      </div>
      <hr/>
@@ -76,6 +73,10 @@ var articles={
          
      </div>
       </div>
+       <div class="co">
+    <div>
+        <a href="http://suryatejareddy.imad.hasura-app.io/articleOne">articleOne</a>
+     </div>
      
  </body>
  
