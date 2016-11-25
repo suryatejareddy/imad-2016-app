@@ -60,9 +60,7 @@ var articles={
         <a href="/">home</a>
      </div>
      <hr/>
-     <div>
-     <a href="http://suryatejareddy.imad.hasura-app.io/articleOne">articleone</a>
-     </div>
+    
      <h3>
         ${heading}
      </h3>
