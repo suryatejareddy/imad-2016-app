@@ -60,6 +60,9 @@ var articles={
         <a href="/">home</a>
      </div>
      <hr/>
+     <div>
+     <a href="http://suryatejareddy.imad.hasura-app.io/articleOne">articleone</a>
+     </div>
      <h3>
         ${heading}
      </h3>
@@ -73,12 +76,10 @@ var articles={
          
      </div>
       </div>
-       <div class="co">
-    <div>
-        <a href="http://suryatejareddy.imad.hasura-app.io/articleOne">articleOne</a>
-     </div>
+     
      
  </body>
+ 
  
  </html>`;
  return htmlTemplate;
