@@ -8,6 +8,7 @@ app.use(morgan('combined'));
 
 
 
+
 var articles={
      
  
@@ -55,6 +56,7 @@ var articles={
  
  
      <div class="con">
+     <a href="http://suryatejareddy.imad.hasura-app.io/articleOne</a>
          
     
      <div>
