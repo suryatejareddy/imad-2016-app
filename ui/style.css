@@ -1,12 +1,9 @@
 body {
     font-family: sans-serif;
-    background:  url(http://cdn.appstorm.net/web.appstorm.net/files/2011/05/Hallway-To-Internet-1-C1R2YDJPE2-1024x768-620x465.jpg) repeat-x;
    
- margin-top: 1000px;
-}  
-head{
-    height:100px;
+ margin-top: 60px;
 }
+
 .center {
     text-align: center;
     
@@ -21,14 +18,14 @@ head{
 }
 
 .img-medium {
-    height: 1200px;
+    height: 120px;
 }
 
 .con {
-    max-width:1000px;
-    margin: 10px auto;
-    color: black;
-   
+    max-width: 800px;
+    margin: 0 auto;
+    color: blue;
+    background: grey;
     padding-left: 10px;
-    padding-right: 10px;
+    padding-right: 20px;
 }
