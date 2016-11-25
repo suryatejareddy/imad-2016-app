@@ -54,6 +54,14 @@ var articles={
    <link href="/ui/style.css" rel="stylesheet" />
  </head>
  <body>
+  <div>
+            <a href="http://suryatejareddy.imad.hasura-app.io/articleOne"></a>
+        </div> 
+    
+     <div>
+        <a href="/">articleOne</a>
+     </div>
+     <hr/>
      <div class="con">
          
     
