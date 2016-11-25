@@ -22,7 +22,8 @@ var articles={
              
          </p>
          <h2>movies</h2>
-<img src="2wCEAAkGBxMTEhUTExMVFhUXGRgYGBgXGBoYGxgYGxgdGhgXHhgaHSggGh0lHRkYITEiJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGxAQGy0lICYvLS8tLS0tLS0tLS8tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf"  style="width:304px;height:228px;">
+         <img src="2wCEAAkGBxMTEhUTExMVFhUXGRgYGBgXGBoYGxgYGxgdGhgXHhgaHSggGh0lHRkYITEiJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGxAQGy0lICYvLS8tLS0tLS0tLS8tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf" alt="W3Schools.com">
+<  style="width:304px;height:228px;">
           `
  },
   articleTwo: {
