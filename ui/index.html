@@ -32,11 +32,28 @@
                 i am a student
             </div>
             <hr/>
-             <!-- -->
- <div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">Comment Box</a> is loading comments...</div>
- <link rel="stylesheet" type="text/css" href="//www.htmlcommentbox.com/static/skins/bootstrap/twitter-bootstrap.css?v=0" />
- <script type="text/javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=hcb_user.PAGE || (""+window.location).replace(/'/g,"%27"), h="//www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&opts=16862&num=10&ts=1480065395692");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
-<!-- -->
+            <div id="respond">
+
+  <h3>Leave a Comment</h3>
+
+  <form action="post_comment.php" method="post" id="commentform">
+
+    <label for="comment_author" class="required">Your name</label>
+    <input type="text" name="comment_author" id="comment_author" value="" tabindex="1" required="required">
+
+    <label for="email" class="required">Your email;</label>
+    <input type="email" name="email" id="email" value="" tabindex="2" required="required">
+
+    <label for="comment" class="required">Your message</label>
+    <textarea name="comment" id="comment" rows="10" tabindex="4"  required="required"></textarea>
+
+    <-- comment_post_ID value hard-coded as 1 -->
+    <input type="hidden" name="comment_post_ID" value="1" id="comment_post_ID" />
+    <input name="submit" type="submit" value="Submit comment" />
+
+  </form>
+
+</div>
            
         </div>
         
