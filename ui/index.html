@@ -32,28 +32,34 @@
                 i am a student
             </div>
             <hr/>
-            <div id="respond">
+           <div class="commentf">
+    <table>
+        <tbody>
+             <form action="submit.html" method="post">
+                <tr>
+                    <td><LABEL for="name">Name: </LABEL>
+                              <INPUT type="text" id="name"></td>
+                </tr>
+                <tr>
+                    <td><LABEL for="email">E-Mail: </LABEL>
+                               <INPUT type="text" id="email"></td>
+                </tr>
+                <tr>
+                    <td><LABEL for="subject">Subject: </LABEL>
+                              <INPUT type="text" id="subject"></td>
+                </tr>
+                <tr>
+                    <td><LABEL for="comment">Text: </LABEL>
+                              <TEXTAREA type="text" id="comment">Comment:</TEXTAREA></td>
+                </tr>
+                <tr>
+                    <td><INPUT type="submit" value="Submit"> <INPUT type="reset"></td>
+                </tr>
+            </form>
+        </tbody>
+    </table>
+         
 
-  <h3>Leave a Comment</h3>
-
-  <form action="post_comment.php" method="post" id="commentform">
-
-    <label for="comment_author" class="required">Your name</label>
-    <input type="text" name="comment_author" id="comment_author" value="" tabindex="1" required="required">
-
-    <label for="email" class="required">Your email;</label>
-    <input type="email" name="email" id="email" value="" tabindex="2" required="required">
-
-    <label for="comment" class="required">Your message</label>
-    <textarea name="comment" id="comment" rows="10" tabindex="4"  required="required"></textarea>
-
-    <-- comment_post_ID value hard-coded as 1 -->
-    <input type="hidden" name="comment_post_ID" value="1" id="comment_post_ID" />
-    <input name="submit" type="submit" value="Submit comment" />
-
-  </form>
-
-</div>
            
         </div>
         
