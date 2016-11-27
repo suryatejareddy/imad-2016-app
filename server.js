@@ -112,7 +112,7 @@ var articles={
      </title>
    <link href="/ui/style.css" rel="stylesheet" />
  </head>
- <body <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUgfPeq0RhhOnIu7tPFR3W68j6wzh45KPuJmp3-e_W2ZD_XFY9Eg" width="500" height="500">
+ <body img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUgfPeq0RhhOnIu7tPFR3W68j6wzh45KPuJmp3-e_W2ZD_XFY9Eg" width="500" height="500">
  
  
      <div class="con">
