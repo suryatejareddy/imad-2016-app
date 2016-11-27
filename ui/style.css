@@ -1,6 +1,8 @@
-
-   
-
+body {
+    font-family: sans-serif;
+   background-image: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUgfPeq0RhhOnIu7tPFR3W68j6wzh45KPuJmp3-e_W2ZD_XFY9Eg");
+ margin-top: 200px;
+}
 
 .center {
     text-align: center;
@@ -16,14 +18,14 @@
 }
 
 .img-medium {
-    height: 120px;
+    height: 1000px;
 }
 
 .con {
-    max-width: 800px;
+    max-width: 1000px;
     margin: 0 auto;
-
+    color: blue;
     
-    padding-left: 100px;
-    padding-right: 200px;
+    padding-left: 10px;
+    padding-right: 20px;
 }
