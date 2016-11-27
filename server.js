@@ -17,7 +17,7 @@ var articles={
           heading:'electronics',
           date:'sep16,2016',
      content:`
-     <body background="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqYzvtS8tUmO9zMG2uhB1vB8WXW6yq5EBpKe2wsPJ5lWWYQiW4">
+     <body bgcolor="#F8C471">
      <p>
              this is my first web app and i am very happy to share.
              
