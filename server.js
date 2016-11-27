@@ -14,7 +14,7 @@ var articles={
  
   articleOne: {
           title:'article one surya',
-          heading:'article one',
+          heading:'electronics',
           date:'sep16,2016',
      content:`
      <p>
