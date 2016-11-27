@@ -17,11 +17,12 @@ var articles={
           heading:'electronics',
           date:'sep16,2016',
      content:`
+     <body bgcolor="#E0E0E0"
      <p>
              this is my first web app and i am very happy to share.
              
          </p>
-     <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRR1GAw6XW8EuYNsLFkEGpVD7u7bXqkyd55akUKfId4Vjag2tm6" width="104" height="142">
+     <img src="" width="104" height="142">
     
           `
  },
