@@ -106,7 +106,7 @@ var articles={
  var htmlTemplate=`
  <!doctype html>
  <html>
- <head <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUgfPeq0RhhOnIu7tPFR3W68j6wzh45KPuJmp3-e_W2ZD_XFY9Eg" width="500" height="500">
+ <head img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUgfPeq0RhhOnIu7tPFR3W68j6wzh45KPuJmp3-e_W2ZD_XFY9Eg" width="500" height="500">
      <title>
         ${title}
      </title>
