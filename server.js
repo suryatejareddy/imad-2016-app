@@ -19,7 +19,8 @@ var articles={
      content:`
      <body bgcolor="#F8C471">
      <p>
-             this is my first web app and i am very happy to share.
+            the branch of physics and technology concerned with the design of circuits using transistors and microchips, and with the behavior and movement of electrons in a semiconductor, conductor, vacuum, or gas.
+"electronics is seen as a growth industry"
              
          </p>
      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlQcQ2C08AgOfSeJp9AHJ2Mm3seE5sWoX0tPdBLLoEZSUgRIEM" width="500" height="200">
