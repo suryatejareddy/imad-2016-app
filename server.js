@@ -23,8 +23,60 @@ var articles={
 "electronics is seen as a growth industry"
              
          </p>
-     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlQcQ2C08AgOfSeJp9AHJ2Mm3seE5sWoX0tPdBLLoEZSUgRIEM" style="float: left; width: 20%; margin-right: 1%; margin-bottom: 0.5em;"><p style="clear: both;"><img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHb86nYJV-gvhAYgYj8HEKjF4BnOQlvkVeMqMVtf3CfNoQSgN4"  style="float: left; width: 20%; margin-right: 1%; margin-bottom: 0.5em;" ><p style="clear: both;"><img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpGHJgavJ2VJHTHtPVY_rpgQ9aDQ8-fuUP942jXUD9oAcJ-syI8g"  style="float: left; width: 20%; margin-right: 1%; margin-bottom: 0.5em;" ><p style="clear: both;"><img src="2wCEAAkGBxMTEhUSExMWFRUXGBoaFxgYGRoXHhsYGh0YGBkaGxgYHiggGh0lGx0XIjIhKCktLi4uHR8zODMtNygtLisBCgoKDg0OGhAQGi0lICUtLS8tLy0tLS0tLy0tLS0tLS8rLy8tLS0tLS4rLS8vLS0tLS0vLTUtLS0vLS0tLS8vLf"  style="float: left; width: 20%; margin-right: 1%; margin-bottom: 0.5em;"><p style="clear: both;"><img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4M-BnpwL1lJG9XCdOxqV-ucdVwf91t-WqO0AqfRsYuPt4X8301A"  style="float: left; width: 20%; margin-right: 1%; margin-bottom: 0.5em;" ><p style="clear: both;">
-      
+         <div id="image-table">
+    <table>
+        <tr>
+            <td style="padding:5px">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlQcQ2C08AgOfSeJp9AHJ2Mm3seE5sWoX0tPdBLLoEZSUgRIEM">
+              </td>
+            <td style="padding:5px">
+                <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHb86nYJV-gvhAYgYj8HEKjF4BnOQlvkVeMqMVtf3CfNoQSgN4">
+             </td>
+             <td style="padding:5px">
+                <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpGHJgavJ2VJHTHtPVY_rpgQ9aDQ8-fuUP942jXUD9oAcJ-syI8g">
+              </td>
+              <td style="padding:5px">
+                <img src="2wCEAAkGBxMTEhUSExMWFRUXGBoaFxgYGRoXHhsYGh0YGBkaGxgYHiggGh0lGx0XIjIhKCktLi4uHR8zODMtNygtLisBCgoKDg0OGhAQGi0lICUtLS8tLy0tLS0tLy0tLS0tLS8rLy8tLS0tLS4rLS8vLS0tLS0vLTUtLS0vLS0tLS8vLf">
+              </td>
+              <td style="padding:5px">
+                <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4M-BnpwL1lJG9XCdOxqV-ucdVwf91t-WqO0AqfRsYuPt4X8301A">
+              </td>
+        </tr>
+    </table>
+</div>
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+    
         
           
             
