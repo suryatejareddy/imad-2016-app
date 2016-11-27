@@ -21,7 +21,6 @@ var articles={
              this is my first web app and i am very happy to share.
              
          </p>
-        
           `
  },
   articleTwo: {
@@ -29,7 +28,6 @@ var articles={
           heading:'article two',
           date:'sep18,2016',
      content:`<p> this is my first web app and i am very happy to share this.This is my second article.</p>`
-      
      
   },
          
@@ -37,8 +35,7 @@ var articles={
           heading:'article three',
           date:'sep19,2016',
      content:`<p>
-     this is my third article.</p>
-     
+     this is my third article.</p>`
     }
  };
  function createTemplate(data){
